@@ -1,4 +1,7 @@
-ank Marketing
+Bank Marketing
+
+
+
 Purpose: This notebook focuses on analyzing and predicting the success of bank marketing campaigns, specifically identifying customers likely to subscribe to term deposits. The goal is to optimize marketing strategies and improve conversion rates.
 
 Approach: The dataset is cleaned, with missing values addressed and categorical features such as marital status and job type encoded. Exploratory Data Analysis (EDA) uncovers key trends, such as how customer age, previous contacts, and campaign outcomes influence subscription rates. Machine learning models like logistic regression and decision trees are trained to predict outcomes. Class imbalances are handled using oversampling techniques, ensuring fairness in model predictions. Evaluation metrics such as accuracy, precision, recall, and AUC scores are computed to assess model performance.
